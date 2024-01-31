@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+
+}
+body {
+    background-image: url(images/fondo\ 2.png);
+    margin: 0;
+    padding: 0;
+
+}
+.navbar{
+    background-color: rgb(98, 29, 125);
+}
+.menu{
+    background-color: blue;
+    height: 5rem;
+}
+
+.slider{
+    background-color: black;
+    height: 30rem;
+}
+
+
+.card{
+    background-color: rgba(115, 127, 139, 0.495);
+    padding: 0%;
+    margin: 0%;
+
+}
+.carrusel{
+    margin: 20rem;
+    padding: 3rem;
+}
